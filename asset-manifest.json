@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/storeTSX/static/css/main.ea9b4bce.css",
+    "main.js": "/storeTSX/static/js/main.8b1a3a0d.js",
+    "index.html": "/storeTSX/index.html",
+    "main.ea9b4bce.css.map": "/storeTSX/static/css/main.ea9b4bce.css.map",
+    "main.8b1a3a0d.js.map": "/storeTSX/static/js/main.8b1a3a0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea9b4bce.css",
+    "static/js/main.8b1a3a0d.js"
+  ]
+}
